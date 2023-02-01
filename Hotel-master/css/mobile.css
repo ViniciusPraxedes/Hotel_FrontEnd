@@ -1,0 +1,116 @@
+/*Main page Header*/
+nav ul li {
+  display: block;
+}
+
+nav ul {
+  list-style: none;
+  float: none;
+}
+
+nav h1 {
+  float: none;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Main page Showcase*/
+.showcase-article {
+  text-align: center;
+  margin: auto;
+  padding-top: 20%;
+  line-height: 1.7;
+}
+
+/* Main page Home info*/
+.home-info {
+  height: 50%;
+}
+
+.home-info-image {
+  display: none;
+}
+
+.home-info-content {
+  width: 100%;
+  margin: auto;
+  float: none;
+}
+/* Main page Features*/
+.great-location, .free-meals, .fitness-room {
+  float: none;
+  width: 100%;
+  margin: auto;
+}
+
+/*About page header*/
+.about-info {
+  overflow: hidden;
+}
+
+.about-info-content {
+  width: 100%;
+  float: none;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0 30px;
+  text-align: center;
+}
+
+.about-info img {
+  width: 30vh;
+  float: none;
+  margin: auto;
+  margin-bottom: 50px;
+  border-radius: 100%;
+  display: block;
+}
+/*About page testimonials*/
+.testimonials {
+  background: url('../images/test-bg.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.testimonials-container{
+  padding: 0 70px 50px 70px;
+}
+.testimonials h2 {
+  font-size: 36px;
+  color: #fff;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.testimonial img {
+  width: 15vh;
+  border-radius: 50%;
+  float: left;
+  margin-right: 20px;
+}
+
+.testimonial {
+  background-color: #f7c08a;
+  border-radius: 10px;
+  padding: 20px;
+  opacity: 0.9;
+  margin: auto;
+  margin-top: 100px;
+  overflow: auto;
+}
+/*Contact page icons*/
+.contact-icons-container {
+  background-color: #333;
+  height: 100%;
+}
+.contact-box {
+  width: 100%;
+  margin: 0;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  display: block;
+  border-bottom: #444 dotted 3px;
+}
