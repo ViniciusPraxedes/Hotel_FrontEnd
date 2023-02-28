@@ -1,4 +1,4 @@
 # Hotel
 
-Simple landing page for fictional company. Created while in high school.
+Simple landing page for fictional Hotel. Created while in high school.
 Built with vanilla HTML+CSS
